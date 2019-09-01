@@ -1,0 +1,183 @@
+.bg {
+    background-image: url("./img/bg.jpg");
+    background-repeat: round;
+    height: 600px
+}
+
+h1 {
+
+    font-family: 'Raleway', sans-serif;
+
+    font-weight: bold;
+}
+
+h3 {
+    font-weight: 400 !important;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.lTitlle {
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 20px;
+}
+
+button {
+    font-family: 'Roboto', sans-serif;
+}
+
+.lanTitlle {
+    color: white;
+    font-size: 70px;
+    font-weight: 400;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: #FCB001;
+
+    color: black !important
+}
+
+.lanText {
+    color: #D3D3D3 !important
+}
+
+.alinhar {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.leftAl {
+    text-align: left
+}
+
+.rightAl {
+    text-align: right
+}
+
+.imgBackground {
+    background-color: #F5F5F5;
+    border: solid 1px #D3D3D3;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.lanButtons {
+    margin-top: 80px;
+
+}
+
+.lanSpace {
+    margin-top: 30px;
+}
+
+.fTitle {
+    font-family: 'Raleway', sans-serif;
+    font-size: 30px;
+    font-weight: 800;
+    margin-bottom: 30px
+}
+
+.roboto {
+    font-family: 'Roboto', sans-serif;
+}
+
+.grayText {
+    font-family: 'Roboto', sans-serif;
+    color: #D3D3D3;
+    font-size: 14px;
+}
+
+.carouselText {
+    color: #696969;
+}
+
+.columnText {
+    font-family: 'Roboto', sans-serif;
+    color: #696969;
+    font-size: 18px;
+}
+
+.imgCarousel {
+    background-color: #F5F5F5;
+    height: 400px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.colorBox {
+    background-color: #9ab0bd !important;
+}
+
+.marketing {
+    margin-top: 15px;
+    margin-bottom: 30px
+}
+
+.btn-marinho {
+    background-color: #0f3d56 !important;
+    color: white !important;
+    font-size: 14px !important;
+    width: 190px !important;
+
+}
+
+.verticalLine {
+    border-right: 1px solid #D3D3D3;
+    height: 180px;
+}
+
+.footerBg {
+    background-color: #080E0C
+}
+
+.white {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+}
+
+.footerLink {
+    color: white;
+    text-decoration: none;
+    margin-left: 20px
+}
+
+.footerLinkSocial {
+    margin-left: 20px
+}
+
+.lineFooter {
+    background-color: #0E3D57;
+    height: 20px;
+    margin-top: 30px
+}
+
+.footerInfo {
+    font-size: 12px;
+    line-height: 20px
+}
+
+.btnLand {
+    margin: 5px !important;
+    border-radius: .40rem !important;
+    border-width: 2px !important;
+}
+
+.btn-brown {
+    background-color: #28241B !important
+}
